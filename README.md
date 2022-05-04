@@ -1,4 +1,4 @@
-# Note.MySQL
+# MySQL
 ## Data type
 ```SQL
 bit             ; 0, 1, null
